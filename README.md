@@ -1,5 +1,5 @@
-# our-house
-Another Unity training project created during my Unity Course. 
+# chaos-ball
+Another training project developed during my Unity 3D course.
 The goal is to push balls into the corners with matching colours
 
 
